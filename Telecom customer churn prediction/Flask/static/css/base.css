@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    background-color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    background-color: white;
+    color: black;
+    margin: 6% 6%;
+    border-radius: 2%;
+    padding: 3%;
+}
+.cont{
+    text-align: justify;
+    font-size: 16px;
+    margin: 2% 10% 2% 2%;
+}
+.cont1{
+    margin: 2% 10% 2% 2%;
+}
+.cont1 img{
+    height: 30vh;
+    width: 42vw;
+}
+.cont1 a{
+    float: right;
+    padding: 4%;
+}
+.btn{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    color: white;
+    height: 5vh;
+    background-color: teal;
+    border-radius: 5px;
+}

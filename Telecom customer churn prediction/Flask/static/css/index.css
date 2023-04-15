@@ -1,0 +1,51 @@
+body{
+    background-color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container-parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+  }
+.container{
+    background-color: white;
+    color: black;
+    width: 50vw;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 5%;
+}
+.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .form-group label {
+    width: 65%;
+    margin-right: 10px;
+  }
+  
+  .radio-group {
+    display: flex;
+    align-items: center;
+  }
+  
+  .radio-group label {
+    margin-right: 10px;
+  }
+  .form-group1 {
+    text-align: center;
+  }
+  
+  .btn {
+    width: 20vw;
+    height: 5vh;
+    color: white;
+    background-color: teal;
+    margin: 2%;
+  }
+  
+
+  
